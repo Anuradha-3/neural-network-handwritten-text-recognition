@@ -1,0 +1,1 @@
+# neural-network-handwritten-text-recognition
